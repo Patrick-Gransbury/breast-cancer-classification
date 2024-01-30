@@ -18,4 +18,3 @@ Malignant Tumor:
 - Cells have larger, dark nuclei, generally with irregual shape
 
 Dataset recorded from "fine needle aspiration" (type of biopsy procedure)
-
